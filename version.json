@@ -1,6 +1,6 @@
 {
-  "versionCode": 10406,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.4.6/OlevenVPN-1.4.6.apk",
-  "notes": "Aggiornamenti automatici, fix stabilita' e crash, MTU ottimizzato"
+  "versionCode": 10407,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.4.7/OlevenVPN-1.4.7.apk",
+  "notes": "Nuovo server Cloudflare (Anti-censura): sblocca la Russia quando gli altri protocolli sono strozzati. Piu stabilita e velocita."
 }
