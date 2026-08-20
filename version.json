@@ -1,6 +1,6 @@
 {
-  "versionCode": 10408,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.4.8/OlevenVPN-1.4.8.apk",
-  "notes": "Stabilita e pulizia: fix leak riconnessione, riconnessione piu pronta, errori update visibili, trasporti allineati. + tuning anti-DPI Qatar."
+  "versionCode": 10409,
+  "versionName": "1.4.9",
+  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.4.9/OlevenVPN-1.4.9.apk",
+  "notes": "Cloudflare ora funziona + fix tasto disconnetti (anti-desync) + pulizia audit."
 }
