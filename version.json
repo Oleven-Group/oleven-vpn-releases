@@ -1,6 +1,6 @@
 {
-  "versionCode": 10409,
-  "versionName": "1.4.9",
-  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.4.9/OlevenVPN-1.4.9.apk",
-  "notes": "Cloudflare ora funziona + fix tasto disconnetti (anti-desync) + pulizia audit."
+  "versionCode": 10500,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.5.0/OlevenVPN-1.5.0.apk",
+  "notes": "Versione dell audit: si ripara da sola se la configurazione arriva incompleta, lo stop durante la connessione annulla davvero, gli errori sono visibili, consumi ridotti."
 }
