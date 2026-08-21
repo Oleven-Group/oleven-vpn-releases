@@ -1,6 +1,6 @@
 {
-  "versionCode": 10500,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.5.0/OlevenVPN-1.5.0.apk",
-  "notes": "Versione dell audit: si ripara da sola se la configurazione arriva incompleta, lo stop durante la connessione annulla davvero, gli errori sono visibili, consumi ridotti."
+  "versionCode": 10501,
+  "versionName": "1.5.1",
+  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.5.1/OlevenVPN-1.5.1.apk",
+  "notes": "Diagnostica: registro di cosa succede al tunnel per capire blocchi e rallentamenti. In Automatico mostra quale server e in uso."
 }
