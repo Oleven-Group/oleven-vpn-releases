@@ -1,6 +1,6 @@
 {
-  "versionCode": 10501,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.5.1/OlevenVPN-1.5.1.apk",
-  "notes": "Diagnostica: registro di cosa succede al tunnel per capire blocchi e rallentamenti. In Automatico mostra quale server e in uso."
+  "versionCode": 10502,
+  "versionName": "1.5.2",
+  "apkUrl": "https://github.com/Oleven-Group/oleven-vpn-releases/releases/download/v1.5.2/OlevenVPN-1.5.2.apk",
+  "notes": "Blocchi: era Android che sospendeva l app per risparmio energetico. Ora l app lo rileva e propone di escludersi. Velocita nel registro corretta."
 }
